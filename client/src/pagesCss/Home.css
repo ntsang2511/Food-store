@@ -1,0 +1,27 @@
+
+
+/* Header img */
+.header {
+  max-width: 1600px;
+  min-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  letter-spacing: 4px;
+}
+
+.header__img {
+  width: 100%;
+}
+
+.header__content {
+  padding: 12px 24px;
+  opacity: 0.6;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.header__content-item {
+  font-size: 36px;
+}

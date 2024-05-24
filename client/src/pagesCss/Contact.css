@@ -1,0 +1,59 @@
+.contact{
+    padding-top: 32px;
+    padding-bottom: 32px;
+    padding: 0.01em 16px;
+}
+
+.contact__title{
+    border-color: #f1f1f1;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid #ccc;
+}
+
+.contact__first-input{
+    border: 1px solid #ccc;
+    padding: 8px;
+    display: block;
+    width: 100%;
+}
+
+.contact__input{
+    margin-top: 16px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    padding: 8px;
+    display: block;
+    width: 100%;
+}
+
+
+.contact__submit{
+    color: #fff;
+    background-color: #000;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.contact__submit-content{
+    
+}
+
+.contact__map{
+    padding: 0.01em 16px;
+}
+
+.contact__map-img{
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
