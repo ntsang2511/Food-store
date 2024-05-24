@@ -16,7 +16,7 @@
     "@mui/icons-material": "^5.15.14",
     "@mui/material": "^5.15.14",
     "bootstrap": "^5.3.3",
-    "firebase": "^10.9.0",
+    "firebase": "^10.12.1",
     "graphql": "^16.8.1",
     "graphql-ws": "^5.16.0",
     "jquery": "^3.7.1",
